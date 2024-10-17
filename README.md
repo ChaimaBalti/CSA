@@ -22,8 +22,8 @@ This project analyzes the one-dimensional system of isentropic gas dynamics, whi
 To run this project locally, clone the repository and install the required dependencies:
 
 ```bash
-git clone [repository-url]
-cd [project-directory]
+git clone [https://github.com/ChaimaBalti/Isentropic-Gas-Dynamics-Analysis/]
+cd [Isentropic-Gas-Dynamics-Analysis]
 pip install -r requirements.txt
 ```
 
